@@ -14,7 +14,7 @@ uvicorn
 pyaml
 pre-commit
 black
-mlx==0.21.1
+mlx==0.29.4
 mlx-vlm==0.1.4
 gradio
 anthropic
